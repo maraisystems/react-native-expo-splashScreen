@@ -6,4 +6,4 @@ Project from https://www.youtube.com/c/ReactiveKoding
 
 Part 1: https://www.youtube.com/watch?v=9zxnxVTqUi0
 
-expo install react-native-sage-area-context
+expo install react-native-safe-area-context
